@@ -114,7 +114,7 @@ predict(w1,w2,test)
 
 
  **OUTPUT** 
-![image]()
+![image](https://github.com/SVDeepu/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/f2a16885d5aaf63f1c1709e38b9879d3bce22ab8/WhatsApp%20Image%202022-10-21%20at%2008.16.18.jpeg)
 
  
 ** RESULT**
